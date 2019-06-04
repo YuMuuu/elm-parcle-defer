@@ -1,0 +1,12 @@
+{
+  "name": "elm-parcle-defer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:YuMuuu/elm-parcle-defer.git",
+  "author": "curelemonade",
+  "license": "MIT",
+  "dependencies": {
+    "elm": "0.19",
+    "parcel": "1.12.3"
+  }
+}
