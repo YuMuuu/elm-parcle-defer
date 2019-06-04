@@ -8,5 +8,12 @@
   "dependencies": {
     "elm": "0.19",
     "parcel": "1.12.3"
+  },
+  "scripts": {
+    "serve": "./node_modules/.bin/parcel src/index.html --out-dir dist"
+  },
+  "devDependencies": {
+    "elm-hot": "^1.0.1",
+    "node-elm-compiler": "^5.0.3"
   }
 }
